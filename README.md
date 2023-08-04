@@ -1,8 +1,7 @@
 ![Header](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/assets/AK%20GIF.gif)
 ## I'm a beginner QA engineer
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://hh.ru/resume/cd223e4aff0b7de1260039ed1f496265755930)
 
 ## Latest Youtube Videos
 
