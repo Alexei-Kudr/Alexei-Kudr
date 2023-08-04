@@ -47,4 +47,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexei-Kudr&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexei-Kudr&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexei-Kudr&hide_progress=true&theme=dark)
