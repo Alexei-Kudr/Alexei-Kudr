@@ -46,3 +46,5 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexei-Kudr&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexei-Kudr&hide_progress=true)
