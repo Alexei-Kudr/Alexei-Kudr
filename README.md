@@ -13,7 +13,7 @@
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=sql&logoColor=00618a)
+![SQL](https://img.shields.io/badge/MYSQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=xcode&logoColor=42A8E8)
 
