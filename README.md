@@ -6,7 +6,7 @@
 ## My certificates
 [Testing specialist in the field of information technologies]()
 
-## My test work
+## My coursework
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
