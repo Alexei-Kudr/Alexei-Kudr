@@ -15,7 +15,7 @@
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=aXcode)
+![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=aXcode&logoColor=2674f2)
 
 ### Testing Documentation
 
