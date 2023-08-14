@@ -4,7 +4,7 @@
 [Link to my CV](https://hh.ru/resume/cd223e4aff0b7de1260039ed1f496265755930)
 
 ## My certificates
-[1.Testing specialist in the field of information technologies](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/assets/1.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
+[1.Testing specialist in the field of information technologies](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/Diploma/Testing%20specialist%20in%20the%20field%20of%20information%20technologies(%D0%A3%D0%A6%20%22%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%22).pdf)
 
 ## My coursework
 [1.Testing specialist in the field of information technologies](https://drive.google.com/file/d/1jsDGXug9EjvxdEE6nHC-ya81S9SzSWWr/view?usp=sharing)
