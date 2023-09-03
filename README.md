@@ -7,7 +7,7 @@
 [1.Testing specialist in the field of information technologies](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20certificates/Testing%20specialist%20in%20the%20field%20of%20information%20technologies(%D0%A3%D0%A6%20%22%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%22).pdf)
 
 ## My coursework
-[1.Testing specialist in the field of information technologies](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework/%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%86%D0%B5%D0%B2%D0%90%D0%98_%D0%92%D0%90%D0%A0_%D0%A1%D0%9F%D0%9E%D0%A2-5.pdf)
+[1.Testing specialist in the field of information technologies](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework/Testing%20specialist%20(Training%20Center%20%22Foundation%22).pdf)
 
 ### Language and Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
