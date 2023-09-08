@@ -4,7 +4,7 @@
 [Link to my CV](https://hh.ru/resume/cd223e4aff0b7de1260039ed1f496265755930)
 
 ## My certificates
-[1.Testing specialist (Training Center "Foundation")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20certificates/Testing%20specialist%20in%20the%20field%20of%20information%20technologies(%D0%A3%D0%A6%20%22%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%22).pdf)
+[1.Testing specialist (Training Center "Foundation")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20certificates/Testing%20specialist%20(Training%20Center%20%22Foundation%22).pdf)
 
 ## My coursework
 [1.Testing specialist (Training Center "Foundation")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework/Testing%20specialist%20(Training%20Center%20%22Foundation%22).pdf)
