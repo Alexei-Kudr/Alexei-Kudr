@@ -8,7 +8,7 @@
 
 [2.Mobile and web application tester (Training Center "Professional")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20certificates/Mobile%20and%20web%20application%20tester%20(Training%20Center%20%22Professional%22)%20.pdf)
 
-## Coursework and test tasks
+## My coursework and tests
 [1.Testing specialist (Training Center "Foundation")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework/Testing%20specialist%20(Training%20Center%20%22Foundation%22).pdf)
 
 ### Language and Tools
