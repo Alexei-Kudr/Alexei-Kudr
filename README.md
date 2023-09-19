@@ -9,7 +9,7 @@
 [2.Mobile and web application tester (Training Center "Professional")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20certificates/Mobile%20and%20web%20application%20tester%20(Training%20Center%20%22Professional%22)%20.pdf)
 
 ## My coursework and tests
-[1.Testing specialist (Training Center "Foundation")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework/Testing%20specialist%20(Training%20Center%20%22Foundation%22).pdf)
+[1.Testing specialist (Training Center "Foundation")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework%20and%20tests/Testing%20specialist%20(Training%20Center%20%22Foundation%22).pdf)
 
 ### Language and Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
