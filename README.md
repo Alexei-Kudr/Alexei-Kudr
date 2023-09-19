@@ -11,6 +11,8 @@
 ## My coursework and tests
 [1.Testing specialist (Training Center "Foundation")](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework%20and%20tests/Testing%20specialist%20(Training%20Center%20%22Foundation%22).pdf)
 
+[2.Elevator testing](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework%20and%20tests/Elevator%20testing.pdf)
+
 ### Language and Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
