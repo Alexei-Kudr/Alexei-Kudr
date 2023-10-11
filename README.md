@@ -13,6 +13,8 @@
 
 [2.Elevator testing](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework%20and%20tests/Elevator%20testing.pdf)
 
+[3.Password recovery task](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/My%20coursework%20and%20tests/Elevator%20testing.pdf)
+
 ### Language and Tools
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
