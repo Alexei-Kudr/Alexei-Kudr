@@ -1,5 +1,5 @@
 ![Header](https://github.com/Alexei-Kudr/Alexei-Kudr/blob/main/assets/AK%20header.png)
-## I'm a beginner QA engineer
+## I'm a QA engineer
 ## My CV
 [Link to my CV](https://hh.ru/resume/cd223e4aff0b7de1260039ed1f496265755930)
 
